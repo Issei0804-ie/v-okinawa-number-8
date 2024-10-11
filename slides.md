@@ -132,5 +132,5 @@ const model = defineModel(
   value="http://bit.ly/4gQBA7P"
   :width="180"
   :height="180"
-  color="4329B9"
+  color="FFFFFF"
 />
